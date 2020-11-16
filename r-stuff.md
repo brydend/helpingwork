@@ -1,5 +1,5 @@
 # Regex
-* Escapes happen with a backslash (\)
+* Escapes happen with a backslash (\\)
 
 # Formatting
 This is all personal but:
